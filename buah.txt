@@ -5,3 +5,5 @@ Nama buah :
 4. Pisang
 5. Manggis
 6. Durian
+7. Rambutan
+8. Kiwi
