@@ -3,3 +3,5 @@ Nama buah :
 2. Anggur
 3. Melon
 4. Pisang
+5. Rambutan
+6. Kiwi
