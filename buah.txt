@@ -4,6 +4,4 @@ Nama buah :
 3. Melon
 4. Pisang
 5. Manggis
-6. Durian
-7. Rambutan
-8. Kiwi
+6. Kiwi
