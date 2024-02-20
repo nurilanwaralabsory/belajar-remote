@@ -1,5 +1,5 @@
 Goals 2024 :
-1. Menguasai Laravel
+1. Jago HTML
 2. Menguasai ReactJs
 3. Menguasai NextJs
 4. Juara di PeTIK
