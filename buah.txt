@@ -2,4 +2,4 @@ Nama buah :
 1. Apel
 2. Anggur
 3. Melon
-
+4. Semangka
